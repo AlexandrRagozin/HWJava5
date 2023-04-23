@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-public class task1{
+public class j1{
     
        // Метод, который добавляет номера в книгу
     public static void addNumber(String key, int value, Map<String, ArrayList<Integer>> map){
